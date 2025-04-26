@@ -1,3 +1,31 @@
-<h2>Hello，我是 gaoyxxx</h2>
-<h3>就读于东北师范大学</h3>
-<h3>是一名 Java 后端开发者</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>首页</title>
+  <script src="/js/vue.js"></script>
+</head>
+<body>
+  <div id="app">
+    <h2>Hello，我是 gaoyxxx</h2>
+    <h3>就读于东北师范大学</h3>
+    <h3>是一名 Java 后端开发者</h3>
+    <h1>{{title}}</h1>
+    <button @click="go()">点我跳转</button>
+  </div>
+</body>
+  <script>
+    new Vue({
+        el: '#app',
+        data: {
+            title: '首页'
+        },
+        methods: {
+            go() {
+                window.location.href = "nav.html"
+            }
+        }
+    })
+  </script>
+
+</html>
