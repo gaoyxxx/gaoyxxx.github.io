@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>写在最前面</title>
+      <link href="/2025/06/08/%E5%86%99%E5%9C%A8%E6%9C%80%E5%89%8D%E9%9D%A2/"/>
+      <url>/2025/06/08/%E5%86%99%E5%9C%A8%E6%9C%80%E5%89%8D%E9%9D%A2/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>网站使用的是 hexo + butterfly，今天算是搭建好了，写这篇一是为了测试一下功能，另一方面列一下 TODO</p></blockquote><p>未来这个网站大部分应该会写一些自己在开发过程中遇到的问题分享</p><p>目前功能上来说，只有基本的发文章，其他的比如分类、标签、说说、评论等等。。。都还没做，也是本人前端太过垃圾，这些后面再说吧 hhh</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 默认分类 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 默认标签 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>周末小记</title>
       <link href="/2025/06/08/%E5%91%A8%E6%9C%AB%E5%B0%8F%E8%AE%B0/"/>
       <url>/2025/06/08/%E5%91%A8%E6%9C%AB%E5%B0%8F%E8%AE%B0/</url>
